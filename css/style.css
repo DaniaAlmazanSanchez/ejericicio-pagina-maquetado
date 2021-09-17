@@ -116,13 +116,9 @@ justify-content: space-between;
 .inicio{
     border: 10px;
 }
-.intro{
-    max-height: 200px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    row-gap: 80px;
-    justify-items: center;
-    align-items: center;
+
+.imagentacos{
+    max-width: 50%;
 }
 
 /*formulario*/
